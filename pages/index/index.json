@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "basics": "/pages/home/home",
+    "about": "/pages/management/management"
+  }
+}
